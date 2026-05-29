@@ -22,8 +22,8 @@ I'm currently a junior in college studying Computer Science and Applied Physics.
 
 I was the lead contributor to these repos as the 2025 Webmaster of the NJIT chapter of the Association for Computing Machinery (NJIT ACM). The local forks are the "frozen" versions of the original shared repos, which may have changed after the end of my term.
 
-* [**NJIT ACM Website**](https://github.com/njitacm/njit-acm-website) ([**Local Fork**](https://github.com/krishpatel2067/njit-acm-website)) - Official website for the NJIT ACM, providing members with info on the club and its events.
-* [**HackNJIT 2025/6**](https://github.com/njitacm/hacknjit-2025) ([**Local Fork**](https://github.com/krishpatel2067/hacknjit-2025)) - Official site for NJIT ACM's annual hackathon, HackNJIT. (HackNJIT 2025 did not actually happen due to budget reasons, so the same repo is being used in 2026 under a different Webmaster.)
+* [**NJIT ACM Website**](https://acm.njit.edu/) ([**Shared Repo**](https://github.com/njitacm/njit-acm-website)) ([**Local Fork**](https://github.com/krishpatel2067/njit-acm-website)) - Official website for the NJIT ACM, providing members with info on the club and its events.
+* [**HackNJIT 2025/6**](https://hacknjit.org/) ([**Shared Repo**](https://github.com/njitacm/hacknjit-2025)) ([**Local Fork**](https://github.com/krishpatel2067/hacknjit-2025)) - Official site for NJIT ACM's annual hackathon, HackNJIT. (HackNJIT 2025 did not actually happen due to budget reasons, so the same repo is being used in 2026 under a different Webmaster.)
 
 
 ### Solo
@@ -47,5 +47,5 @@ These reference sheets were created on Google Docs before I started using LaTeX:
 
 ## Contact
 
-* Email: [krishpatel2067@gmail.com](mailto:krishpatel2067@gmail.com)
+* [krishpatel2067@gmail.com](mailto:krishpatel2067@gmail.com)
 * [**LinkedIn**](https://www.linkedin.com/in/krishpatel2067/)
